@@ -1,0 +1,16 @@
+LTspice 24.1.9 for Windows
+Circuit: C:\Users\User\OneDrive\Documents\LTspice\Buck Converter.net
+Start Time: Sun Sep 13 23:56:16 2026
+solver = Normal
+Maximum thread count: 16
+tnom = 27
+temp = 27
+method = trap
+Direct Newton iteration for .op point succeeded.
+Total elapsed time: 0.147 seconds.
+
+Files loaded:
+C:\Users\User\OneDrive\Documents\LTspice\Buck Converter.net
+C:\Users\User\AppData\Local\LTspice\lib\cmp\standard.dio
+C:\Users\User\AppData\Local\LTspice\lib\cmp\standard.mos
+
